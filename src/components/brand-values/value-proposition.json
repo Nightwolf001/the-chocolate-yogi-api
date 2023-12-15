@@ -1,0 +1,17 @@
+{
+  "collectionName": "components_brand_values_value_propositions",
+  "info": {
+    "displayName": "value proposition",
+    "icon": "bulletList",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "text"
+    },
+    "body": {
+      "type": "text"
+    }
+  }
+}

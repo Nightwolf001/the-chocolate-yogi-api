@@ -1,0 +1,19 @@
+{
+  "collectionName": "components_selling_points_brand_unique_selling_points",
+  "info": {
+    "displayName": "Brand Unique Selling Points",
+    "icon": "apps"
+  },
+  "options": {},
+  "attributes": {
+    "text": {
+      "type": "string"
+    },
+    "text_color": {
+      "type": "string"
+    },
+    "background_color": {
+      "type": "string"
+    }
+  }
+}

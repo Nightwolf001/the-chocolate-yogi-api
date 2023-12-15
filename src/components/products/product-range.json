@@ -1,0 +1,57 @@
+{
+  "collectionName": "components_products_product_ranges",
+  "info": {
+    "displayName": "product range",
+    "icon": "dashboard",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "sub_title": {
+      "type": "string"
+    },
+    "description": {
+      "type": "text"
+    },
+    "ingredients": {
+      "type": "text"
+    },
+    "btn_text_1": {
+      "type": "string"
+    },
+    "btn_text_2": {
+      "type": "string"
+    },
+    "grams": {
+      "type": "string"
+    },
+    "pack_shot": {
+      "type": "media",
+      "multiple": false,
+      "required": false,
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ]
+    },
+    "pack_illustration": {
+      "type": "media",
+      "multiple": false,
+      "required": false,
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ]
+    },
+    "color": {
+      "type": "string"
+    }
+  }
+}

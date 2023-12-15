@@ -1,0 +1,46 @@
+{
+  "kind": "singleType",
+  "collectionName": "hunnycombs",
+  "info": {
+    "singularName": "hunnycomb",
+    "pluralName": "hunnycombs",
+    "displayName": "Hunnycomb",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": false
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "Intro": {
+      "type": "component",
+      "repeatable": false,
+      "component": "brand-values.value-proposition"
+    },
+    "selling_points": {
+      "type": "component",
+      "repeatable": true,
+      "component": "selling-points.brand-unique-selling-points"
+    },
+    "products": {
+      "type": "component",
+      "repeatable": true,
+      "component": "products.product-range"
+    },
+    "prop_1": {
+      "type": "component",
+      "repeatable": false,
+      "component": "brand-values.value-proposition"
+    },
+    "prop_2": {
+      "type": "component",
+      "repeatable": false,
+      "component": "brand-values.value-proposition"
+    },
+    "prop_3": {
+      "type": "component",
+      "repeatable": false,
+      "component": "brand-values.value-proposition"
+    }
+  }
+}
